@@ -1,7 +1,5 @@
 <!-- GitHub Profile Banner (optional but recommended) -->
-<p align="center">
-  <img src="https://via.placeholder.com/1200x300/0A2540/FFFFFF?text=Hi%2C+I%27m+Tola+%F0%9F%91%8B" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi there, I'm <strong>Tola</strong> 👋</h1>
 
